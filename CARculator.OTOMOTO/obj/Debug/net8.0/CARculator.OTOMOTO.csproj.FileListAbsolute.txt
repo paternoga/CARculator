@@ -1,0 +1,17 @@
+C:\Users\xdpat\source\repos\CARculator\CARculator.OTOMOTO\bin\Debug\net8.0\CARculator.OTOMOTO.exe
+C:\Users\xdpat\source\repos\CARculator\CARculator.OTOMOTO\bin\Debug\net8.0\CARculator.OTOMOTO.deps.json
+C:\Users\xdpat\source\repos\CARculator\CARculator.OTOMOTO\bin\Debug\net8.0\CARculator.OTOMOTO.runtimeconfig.json
+C:\Users\xdpat\source\repos\CARculator\CARculator.OTOMOTO\bin\Debug\net8.0\CARculator.OTOMOTO.dll
+C:\Users\xdpat\source\repos\CARculator\CARculator.OTOMOTO\bin\Debug\net8.0\CARculator.OTOMOTO.pdb
+C:\Users\xdpat\source\repos\CARculator\CARculator.OTOMOTO\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\xdpat\source\repos\CARculator\CARculator.OTOMOTO\obj\Debug\net8.0\CARculator.OTOMOTO.csproj.AssemblyReference.cache
+C:\Users\xdpat\source\repos\CARculator\CARculator.OTOMOTO\obj\Debug\net8.0\CARculator.OTOMOTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xdpat\source\repos\CARculator\CARculator.OTOMOTO\obj\Debug\net8.0\CARculator.OTOMOTO.AssemblyInfoInputs.cache
+C:\Users\xdpat\source\repos\CARculator\CARculator.OTOMOTO\obj\Debug\net8.0\CARculator.OTOMOTO.AssemblyInfo.cs
+C:\Users\xdpat\source\repos\CARculator\CARculator.OTOMOTO\obj\Debug\net8.0\CARculator.OTOMOTO.csproj.CoreCompileInputs.cache
+C:\Users\xdpat\source\repos\CARculator\CARculator.OTOMOTO\obj\Debug\net8.0\CARculat.94CD46F8.Up2Date
+C:\Users\xdpat\source\repos\CARculator\CARculator.OTOMOTO\obj\Debug\net8.0\CARculator.OTOMOTO.dll
+C:\Users\xdpat\source\repos\CARculator\CARculator.OTOMOTO\obj\Debug\net8.0\refint\CARculator.OTOMOTO.dll
+C:\Users\xdpat\source\repos\CARculator\CARculator.OTOMOTO\obj\Debug\net8.0\CARculator.OTOMOTO.pdb
+C:\Users\xdpat\source\repos\CARculator\CARculator.OTOMOTO\obj\Debug\net8.0\CARculator.OTOMOTO.genruntimeconfig.cache
+C:\Users\xdpat\source\repos\CARculator\CARculator.OTOMOTO\obj\Debug\net8.0\ref\CARculator.OTOMOTO.dll

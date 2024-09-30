@@ -1,0 +1,6 @@
+C:\Users\xdpat\source\repos\CARculator\CARculator.Data\bin\Debug\CARculator.Data.dacpac
+C:\Users\xdpat\source\repos\CARculator\CARculator.Data\bin\Debug\CARculator.Data.dll
+C:\Users\xdpat\source\repos\CARculator\CARculator.Data\bin\Debug\CARculator.Data.pdb
+C:\Users\xdpat\source\repos\CARculator\CARculator.Data\obj\Debug\CARculator.Data.sqlproj.AssemblyReference.cache
+C:\Users\xdpat\source\repos\CARculator\CARculator.Data\obj\Debug\CARculator.Data.dll
+C:\Users\xdpat\source\repos\CARculator\CARculator.Data\obj\Debug\CARculator.Data.pdb

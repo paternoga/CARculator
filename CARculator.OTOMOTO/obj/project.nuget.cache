@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OqO6nht+4IAoXGFj7yq+72A/JUTPjMD9MsW7xO+8YykGsOJOoYIQi3xW7gdhSfs39do1XKa/Onj+rF0ZfIWiWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xdpat\\source\\repos\\CARculator\\CARculator.OTOMOTO\\CARculator.OTOMOTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xdpat\\.nuget\\packages\\htmlagilitypack\\1.11.65\\htmlagilitypack.1.11.65.nupkg.sha512"
+  ],
+  "logs": []
+}

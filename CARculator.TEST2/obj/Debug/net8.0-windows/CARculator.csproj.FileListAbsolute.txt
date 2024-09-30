@@ -1,0 +1,9 @@
+C:\Users\xdpat\source\repos\CARculator\CARculator.TEST2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\xdpat\source\repos\CARculator\CARculator.TEST2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\xdpat\source\repos\CARculator\CARculator.TEST2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\xdpat\source\repos\CARculator\CARculator.TEST2\obj\Debug\net8.0-windows\CARculator_MarkupCompile.cache
+C:\Users\xdpat\source\repos\CARculator\CARculator.TEST2\obj\Debug\net8.0-windows\CARculator.g.resources
+C:\Users\xdpat\source\repos\CARculator\CARculator.TEST2\obj\Debug\net8.0-windows\CARculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xdpat\source\repos\CARculator\CARculator.TEST2\obj\Debug\net8.0-windows\CARculator.AssemblyInfoInputs.cache
+C:\Users\xdpat\source\repos\CARculator\CARculator.TEST2\obj\Debug\net8.0-windows\CARculator.AssemblyInfo.cs
+C:\Users\xdpat\source\repos\CARculator\CARculator.TEST2\obj\Debug\net8.0-windows\CARculator.csproj.CoreCompileInputs.cache

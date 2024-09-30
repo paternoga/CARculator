@@ -1,0 +1,78 @@
+﻿@page "/"
+@using System.Collections.Generic
+
+<h3>Wybór Modelu Audi</h3>
+
+<!-- Wybór modelu -->
+<select @bind="selectedModel">
+    <option value="">Wybierz model</option>
+    @foreach (var model in audiModels)
+    {
+        <option value="@model.ModelName">@model.ModelName</option>
+    }
+</select>
+
+<!-- Lista generacji -->
+@if (showGenerations)
+{
+    <ul>
+        @foreach (var generation in generations)
+        {
+            <li @onclick="() => SelectGeneration(generation)" class="generation-item">
+                @generation
+            </li>
+        }
+    </ul>
+}
+
+@code {
+    private string selectedModel;
+    private string selectedGeneration;
+    private bool showGenerations = false;
+    private List<string> generations = new List<string>();
+
+    private List<AudiModel> audiModels = new List<AudiModel>
+    {
+        new AudiModel
+        {
+            ModelName = "A3",
+            Generations = new List<string> { "8L", "8P", "8V" }
+        },
+        new AudiModel
+        {
+            ModelName = "A4",
+            Generations = new List<string> { "B5", "B6", "B7", "B8", "B9" }
+        },
+        new AudiModel
+        {
+            ModelName = "A6",
+            Generations = new List<string> { "C4", "C5", "C6", "C7", "C8" }
+        }
+    };
+
+    private void LoadGenerations()
+    {
+        if (!string.IsNullOrEmpty(selectedModel))
+        {
+            var model = audiModels.Find(m => m.ModelName == selectedModel);
+            generations = model?.Generations ?? new List<string>();
+            showGenerations = generations.Count > 0;
+        }
+        else
+        {
+            generations.Clear();
+            showGenerations = false;
+        }
+    }
+
+    private void SelectGeneration(string generation)
+    {
+        selectedGeneration = generation;
+    }
+
+    // Wykonaj aktualizację generacji, gdy model się zmienia
+    protected override void OnParametersSet()
+    {
+        LoadGenerations();
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BcaMWPdfAe3V8kKhizTz0P5H71OGmfOE5+rGhNS68yHvmqbACGMeN8kGGvdDM56dLl6T7KRNd4GdrCp23hnQqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xdpat\\source\\repos\\CARculator\\CARculator\\CARculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xdpat\\.nuget\\packages\\htmlagilitypack\\1.11.65\\htmlagilitypack.1.11.65.nupkg.sha512",
+    "C:\\Users\\xdpat\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "C:\\Users\\xdpat\\.nuget\\packages\\microsoft.codeanalysis.common\\4.11.0\\microsoft.codeanalysis.common.4.11.0.nupkg.sha512",
+    "C:\\Users\\xdpat\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.11.0\\microsoft.codeanalysis.csharp.4.11.0.nupkg.sha512",
+    "C:\\Users\\xdpat\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\xdpat\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512",
+    "C:\\Users\\xdpat\\.nuget\\packages\\wpf-ui\\3.0.5\\wpf-ui.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,120 @@
+Class Name: AudiA4B8
+Brand: Audi
+Model: A4
+Generation: B8
+Production Year: 2008-2015
+Mileage: 1000000
+Average Price: 25000
+Fuel Type: Petrol
+Transmissions: Automat
+Engines: 1,6|1600|105
+
+
+Class Name: AudiA4B8
+Brand: Audi
+Model: A4
+Generation: B8
+Production Year: 2008-2015
+Mileage: 100000
+Average Price: 25000
+Fuel Type: Petrol
+Transmissions: Automatic
+Engines: 1.6 e,1600-1700,105
+
+
+Class Name: AudiA4B8
+Brand: Audi
+Model: A4
+Generation: B8
+Production Year: 2008-2015
+Mileage: 100000
+Average Price: 30000
+Fuel Type: Petrol
+Transmissions: Manual,Automatic
+Engines: 1.6|1600|120
+
+
+Class Name: AudiA4B8
+Brand: Audi
+Model: A4
+Generation: B8
+Production Year: 2012
+Mileage: 20000
+Average Price: 30000
+Fuel Type: Petrol
+Transmissions: Manual
+Engines: 1.6|1600|105
+
+
+Class Name: AudiA4B8
+Brand: Audi
+Model: A4
+Generation: B8
+Production Year: 2015
+Mileage: 100000
+Average Price: 30000
+Fuel Type: Petrol
+Transmissions: Manual
+Engines: 1.8|1800|140
+
+
+Class Name: AudiA4B8
+Brand: Audi
+Model: A4
+Generation: B8
+Production Year: 2015
+Mileage: 20000
+Average Price: 30000
+Fuel Type: Petrol
+Transmissions: Manual
+Engines: 1.8|1800|200
+
+
+Class Name: AudiA4B8
+Brand: Audi
+Model: A4
+Generation: B8
+Production Year: 2015
+Mileage: 20000
+Average Price: 30000
+Fuel Type: Petrol
+Transmissions: Manual
+Engines: 1.8|1800|200
+
+
+Class Name: a
+Brand: a
+Model: a
+Generation: 2
+Production Year: 2
+Mileage: 20
+Average Price: 20
+Fuel Type: Petrol
+Transmissions: Manual
+Engines: 1.8|1800|140
+
+
+Class Name: a
+Brand: a
+Model: a
+Generation: a
+Production Year: 2
+Mileage: 2
+Average Price: 21
+Fuel Type: Petrol
+Transmissions: Manual
+Engines: 1|1|20
+
+
+Class Name: a
+Brand: a
+Model: aa
+Generation: a
+Production Year: 12
+Mileage: 12
+Average Price: 12
+Fuel Type: Petrol
+Transmissions: Manual
+Engines: 1|1|2
+
+

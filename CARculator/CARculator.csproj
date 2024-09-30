@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Styles\Images\carculator.png" />
+    <None Remove="Styles\Images\carculator2.png" />
+    <None Remove="Styles\Images\home1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CARculator.OTOMOTO\CARculator.OTOMOTO.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="4.11.0" />
+    <PackageReference Include="WPF-UI" Version="3.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Styles\Images\carculator.png" />
+    <Resource Include="Styles\Images\carculator2.png" />
+    <Resource Include="Styles\Images\home1.png" />
+  </ItemGroup>
+
+</Project>
