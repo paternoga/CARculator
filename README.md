@@ -1,0 +1,1 @@
+Aplikacja desktopowa, której celem jest ułatwienie użytkownikom szacowania wartości rynkowej pojazdów na podstawie danych z serwisu OTOMOTO. Użytkownik może wprowadzać szczegóły dotyczące pojazdu, takie jak marka, model, rocznik, przebieg, czy typ silnika, a aplikacja pobiera i analizuje dane z ogłoszeń dostępnych w serwisie.
